@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @aeroder, I'm a computational biologist at the National Institutes of Health.  
-     
-- 👀 I’m interested in viruses, evolution, viral population dynamics, and the host response to viral infection. 
+### 👋 Hi, I’m Allison 
 
-- 📫 How to reach me: Email me at allison.e.roder@gmail.com
+I'm a computational biologist at the National Institutes of Health.  
+     
+👀 I’m interested in viruses, evolution, viral population dynamics, and the host response to viral infection. 
+
+📫 If you want to reach me, you can email me at allison.e.roder@gmail.com
 
 <!---
 aeroder/aeroder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
