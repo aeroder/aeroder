@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m Allison 
 
-I'm a computational biologist at the National Institutes of Health.  
-     
-👀 I’m interested in viruses, evolution, viral population dynamics, and the host response to viral infection. 
+I'm a senior computational biologist at Pathos AI.  
 
 📫 If you want to reach me, you can email me at allison.e.roder@gmail.com
 
