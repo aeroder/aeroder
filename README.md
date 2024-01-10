@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Allison 
 
-I'm a senior computational biologist at Pathos AI.  
+I'm a principal computational biologist at Pathos AI.  
 
 📫 If you want to reach me, you can email me at allison.e.roder@gmail.com
 
